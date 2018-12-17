@@ -7,6 +7,11 @@ Code to run Sample API calibration experiment as described in [1]. This will pos
 3. For best performance, synchronize your system's clock.
 4. run `calibrate_and_spam_ma.py`.
 
+## How to cite
+To cite this paper, please use the following reference:
+```
+Pfeffer, Jürgen & Morstatter, Fred & Mayer, Katja (2018). Tampering with Twitter's Sample API. EPJ - Data Science, doi: 10.1140/epjds/s13688-018-0178-0 
+```
 
 ## References
 [1] Morstatter, Fred, et al. "Can one tamper with the sample api?: Toward neutralizing bias from spam and bot content." Proceedings of the 25th International Conference Companion on World Wide Web. International World Wide Web Conferences Steering Committee, 2016.
